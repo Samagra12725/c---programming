@@ -17,5 +17,5 @@ int main()
     cin>>x>>y;
     cout<<"Before swapping x = "<<x<<endl<<"Before swapping y = "<<y<<endl;
     swap(x,y);
-    cout<<"After swapping x ="<<x<<endl<<"After swapping y = "<<y<<endl;
+    cout<<"After swapping x = "<<x<<endl<<"After swapping y = "<<y<<endl;
 }

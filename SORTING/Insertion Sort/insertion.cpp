@@ -14,8 +14,8 @@ int main()
     {
         for(j=i;j>0;j--)
         {
-            if(arr[j]<arr[j-1])
-            swap(arr[j],arr[j-1]);
+            if(arr[j]<arr[j-1])                                          
+            swap(arr[j],arr[j-1]);                      
             else
             break;
         }

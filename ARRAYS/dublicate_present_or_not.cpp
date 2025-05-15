@@ -18,7 +18,6 @@ int main()
             {
                 cout<<"dublicate found of "<<a[i]<<" at index = "<<j<<endl;
                 break;
-
             }
         }
     }
